@@ -21,7 +21,7 @@ export default {
         `<!DOCTYPE html>
         <html>
           <body>
-            <h2>Upload Files & Message</h2>
+            <h2>It is working correctly Upload Files & Message</h2>
             <form method="POST" enctype="multipart/form-data">
               <label>Message: <input type="text" name="message" required></label><br><br>
               <label>Files: <input type="file" name="userFiles" multiple></label><br><br>
